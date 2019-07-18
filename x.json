@@ -1,0 +1,21 @@
+[{
+		"name": "百度",
+		"url": "https://www.baidu.com",
+		"type": 1
+	},
+	{
+		"name": "微博",
+		"url": "https://www.weibo.com",
+		"type": 1
+	},
+	{
+		"name": "Bilibili",
+		"url": "https://www.bilibili.com",
+		"type": 1
+	},
+	{
+		"name": "更新",
+		"url": "http://app.mi.com/download/796073?id=com.One.WoodenLetter",
+		"type": 2
+	}
+]
